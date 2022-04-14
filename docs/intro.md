@@ -7,7 +7,7 @@ slug: /
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
-## Getting Started cc toa
+## Getting Started Test arnaud
 
 Get started by **creating a new site**.
 
